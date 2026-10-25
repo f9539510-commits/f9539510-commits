@@ -8,6 +8,11 @@
 🇪🇬🐪 مصر-مطروح 🇪🇬*
 ⚡ **شغالة على Termux**
 
+  Calypsu | كالبسو
+  Matrouh, Egypt 🇪🇬
+  Termux-Mobile-Tools
+
+
 ### 🛠️ متجري الأساسي
 👉 **[Termux-Mobile-Tools](https://github.com/f9539510-commits/Termux-Mobile-Tools)**
 > أدوات خفيفة وسريعة للاندرويد بالعربي - راديو وشبكات وادوات عامة-تصميم تطوير
