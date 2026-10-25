@@ -1,8 +1,12 @@
 <div align="center">
-  
-  <img src="https://github.com/f9539510-commits.png" width="150" style="border-radius:50%"/>
 
-# <span style="color:#00ff00; text-shadow: 0 0 10px #00ff00;">Welcome to KHABSO World 🔥</span>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome+to+Calypsu+World+🔥)](https://git.io/typing-svg)
+
+</div>
+
+<table>
+<tr>
+<td width="60%">
 
 ### 👋 Calypsu - مطور أدوات Termux
 
@@ -10,14 +14,27 @@
 وسريعة 🐪 مصر-مطروح 🇪🇬
 ⚡ شغالة على Termux *
 
+<br>
+
 **Calypsu | كالبسو | Matrouh, Egypt 🇪🇬**
 **Termux-Mobile-Tools**
 
+<br>
+
 ### 🛠️ متجري الأساسي
+https://github.com/f9539510-commits/Termux-Mobile-Tools
 
-![Calypso Logo](https://raw.githubusercontent.com/f9539510-commits/f9539510-commits/main/calypso-logo.png)
+</td>
+<td width="40%" align="center">
 
-</div>
+<img src="https://avatars.githubusercontent.com/u/212972230?v=4" width="220" />
+
+**CALYPSO**
+**كالبسو**
+
+</td>
+</tr>
+</table>
 
 ---
 🔥 Termux Tools Developer | Matrouh, Egypt 🇪🇬
