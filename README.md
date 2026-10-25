@@ -1,6 +1,6 @@
 <div align="center">
 
-[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+Calypsu+World+🔥)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+Calypsu+World+🔥)
 
 </div>
 
@@ -8,25 +8,18 @@
 <tr>
 <td>
 
-### 👋 Calypsu - مطور أدوات Termux
+### Calypsu 🇪🇬 مطروح 🐪
 
-🔥 أدوات للموبايل خفيفة وسريعة 🐪
-🇪🇬 مصر-مطروح ⚡ شغالة على Termux
+مطور أدوات تيرمكس
 
-**Calypsu | كالبسو | Matrouh, Egypt**
-**Termux-Mobile-Tools**
-
-### 🛠️ متجري الأساسي
-https://github.com/f9539510-commits/Termux-Mobile-Tools
+### Calypsu 🇪🇬 Matrouh 🐪
+Termux Tools Developer
 
 </td>
 <td align="center">
 
-<img src="IMG-20261011-WA7425.jpg" width="250" />
+<img src="IMG-20261011-WA7425.jpg" width="230" />
 
 </td>
 </tr>
 </table>
-
----
-🔥 Termux Tools Developer | Matrouh, Egypt 🇪🇬
