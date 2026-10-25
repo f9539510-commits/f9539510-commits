@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F72B&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+KHABSO+World+%F0%9F%94%A5;Termux+Developer+%F0%9F%87%AA%F0%9F%87%AC" />
 
-<!--
-**f9539510-commits/f9539510-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 أنا KHABSO - مطور أدوات Termux
 
-Here are some ideas to get you started:
+<img align="right" width="250" src="https://github.com/f9539510-commits.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 **أدوات للموبايل خفيفة وسريعة**
+🇪🇬 **من مصر - معمولة بالحب**
+⚡ **شغالة على Termux**
+
+### 🛠️ متجري الأساسي
+👉 **[Termux-Mobile-Tools](https://github.com/f9539510-commits/Termux-Mobile-Tools)**
+> أدوات خفيفة وسريعة للاندرويد بالعربي - راديو وشبكات وادوات عامة
+
+### 📊 احصائياتي
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=f9539510-commits&show_icons=true&theme=dark)
+
+---
+⭐ **اعمل فولو عشان تشوف الجديد**
